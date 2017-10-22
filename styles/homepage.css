@@ -1,0 +1,28 @@
+nav {
+background-color: white;
+}
+
+.navbar-brand.title {
+	color: black;
+}
+
+body {
+	background: url("../IMGS/wallpaper.jpg") no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+.h1 {
+	text-align: left;
+	margin: 30px 30px 30px 30px;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	color: white;
+	font-size: 40px;
+	}
+
+.profile-pic {
+	max-height: 100%;
+	width: 100%;
+}
+
+
